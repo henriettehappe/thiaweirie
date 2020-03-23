@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uxiechahm.marcinchelminiak.pl/sitemap.xml
